@@ -12,3 +12,8 @@
 	path = stesi/gtms_enterprise
 	url = git@github.com:stesi/gtms_enterprise.git
 	branch = master
+
+[submodule "stesi/gtms_stock"]
+	path = stesi/gtms_stock
+	url = git@github.com:stesi/gtms_stock.git
+	branch = 14.0
