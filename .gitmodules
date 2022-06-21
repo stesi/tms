@@ -22,3 +22,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+
+[submodule "stesi/gtms_fleet_planning"]
+	path = stesi/gtms_fleet_planning
+	url = git@github.com:stesi/gtms_fleet_planning.git
+	branch = 14.0
