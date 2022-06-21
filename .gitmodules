@@ -27,3 +27,8 @@
 	path = stesi/gtms_fleet_planning
 	url = git@github.com:stesi/gtms_fleet_planning.git
 	branch = 14.0
+
+[submodule "stesi/gtms_automatic_supplier"]
+	path = stesi/gtms_automatic_supplier
+	url = git@github.com:stesi/gtms_automatic_supplier.git
+	branch = 14.0
