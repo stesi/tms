@@ -42,3 +42,8 @@
 	path = stesi/web_google_maps
 	url = git@github.com:stesi/web_google_maps.git
 	branch = 14.0
+
+[submodule "stesi/stesi_maps"]
+	path = stesi/stesi_maps
+	url = git@github.com:stesi/stesi_maps.git
+	branch = 14.0
