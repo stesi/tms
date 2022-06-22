@@ -32,3 +32,8 @@
 	path = stesi/gtms_automatic_supplier
 	url = git@github.com:stesi/gtms_automatic_supplier.git
 	branch = 14.0
+
+[submodule "stesi/gtms_website"]
+	path = stesi/gtms_website
+	url = git@github.com:stesi/gtms_website.git
+	branch = 14.0
