@@ -38,21 +38,6 @@
 	url = git@github.com:stesi/gtms_website.git
 	branch = 14.0
 
-[submodule "stesi/web_google_maps"]
-	path = stesi/web_google_maps
-	url = git@github.com:stesi/web_google_maps.git
-	branch = 14.0
-
-[submodule "stesi/stesi_maps"]
-	path = stesi/stesi_maps
-	url = git@github.com:stesi/stesi_maps.git
-	branch = 14.0
-
-[submodule "stesi/gtms_maps"]
-	path = stesi/gtms_maps
-	url = git@github.com:stesi/gtms_maps.git
-	branch = 14.0
-
 [submodule "OCA/fleet"]
 	path = OCA/fleet
 	url = git@github.com:OCA/fleet.git
