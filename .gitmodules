@@ -42,3 +42,8 @@
 	path = OCA/fleet
 	url = git@github.com:OCA/fleet.git
 	branch = 14.0
+
+[submodule "stesi/maps"]
+	path = stesi/maps
+	url = git@github.com:stesi/maps.git
+	branch = main
