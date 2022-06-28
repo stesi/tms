@@ -12,3 +12,38 @@
 	path = stesi/gtms_enterprise
 	url = git@github.com:stesi/gtms_enterprise.git
 	branch = master
+
+[submodule "stesi/gtms_stock"]
+	path = stesi/gtms_stock
+	url = git@github.com:stesi/gtms_stock.git
+	branch = 14.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 14.0
+
+[submodule "stesi/gtms_fleet_planning"]
+	path = stesi/gtms_fleet_planning
+	url = git@github.com:stesi/gtms_fleet_planning.git
+	branch = 14.0
+
+[submodule "stesi/gtms_automatic_supplier"]
+	path = stesi/gtms_automatic_supplier
+	url = git@github.com:stesi/gtms_automatic_supplier.git
+	branch = 14.0
+
+[submodule "stesi/gtms_website"]
+	path = stesi/gtms_website
+	url = git@github.com:stesi/gtms_website.git
+	branch = 14.0
+
+[submodule "OCA/fleet"]
+	path = OCA/fleet
+	url = git@github.com:OCA/fleet.git
+	branch = 14.0
+
+[submodule "stesi/maps"]
+	path = stesi/maps
+	url = git@github.com:stesi/maps.git
+	branch = main
