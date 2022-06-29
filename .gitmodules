@@ -47,3 +47,8 @@
 	path = stesi/maps
 	url = git@github.com:stesi/maps.git
 	branch = main
+
+[submodule "ingegniamo/gtms_inspection_survey"]
+	path = ingegniamo/gtms_inspection_survey
+	url = git@github.com:ingegniamo/gtms_inspection_survey.git
+	branch = 14.0
