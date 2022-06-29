@@ -57,3 +57,8 @@
 	path = ingegniamo/fleet_custom_info
 	url = git@github.com:ingegniamo/fleet_custom_info.git
 	branch = 14.0
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 14.0
