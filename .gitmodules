@@ -62,3 +62,13 @@
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 14.0
+
+[submodule "ingegniamo/gtms_inspection_website"]
+	path = ingegniamo/gtms_inspection_website
+	url = git@github.com:ingegniamo/gtms_inspection_website.git
+	branch = 14.0
+
+[submodule "ingegniamo/survey_helpdesk"]
+	path = ingegniamo/survey_helpdesk
+	url = git@github.com:ingegniamo/survey_helpdesk.git
+	branch = 14.0
