@@ -72,3 +72,8 @@
 	path = ingegniamo/survey_helpdesk
 	url = git@github.com:ingegniamo/survey_helpdesk.git
 	branch = 14.0
+
+[submodule "ingegniamo/sh_survey_extra_fields"]
+	path = ingegniamo/sh_survey_extra_fields
+	url = git@github.com:ingegniamo/sh_survey_extra_fields.git
+	branch = 14.0
