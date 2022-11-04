@@ -77,3 +77,8 @@
 	path = ingegniamo/sh_survey_extra_fields
 	url = git@github.com:ingegniamo/sh_survey_extra_fields.git
 	branch = 14.0
+
+[submodule "ingegniamo/from_smtp_as_return_path"]
+	path = ingegniamo/from_smtp_as_return_path
+	url = git@github.com:ingegniamo/from_smtp_as_return_path.git
+	branch = 14.0
