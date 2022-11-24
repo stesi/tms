@@ -87,3 +87,8 @@
 	path = ingegniamo/helpdesk_sale_order
 	url = git@github.com:ingegniamo/helpdesk_sale_order.git
 	branch = 14.0
+
+[submodule "stesi/gtms_otm"]
+	path = stesi/gtms_otm
+	url = git@github.com:stesi/gtms_otm.git
+	branch = 14.0
